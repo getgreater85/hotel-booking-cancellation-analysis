@@ -45,7 +45,7 @@ Implementing the prioritized recommendations could:
 - 💰 **Revenue Impact Calculator**: Quantified business value
 - 🎯 **Priority Recommendations**: Actionable insights with ROI estimates
 
-**[🚀 Launch Interactive Dashboard](https://YOUR_USERNAME.github.io/hotel-booking-cancellation-analysis/)**
+**[🚀 Launch Interactive Dashboard](https://getgreater85.github.io/hotel-booking-cancellation-analysis/dashboards/interactive_dashboard.html)**
 
 ---
 
@@ -108,10 +108,8 @@ hotel-booking-cancellation-analysis/
 │   ├── Enhanced_EDA_Report.md        # Written analysis
 │   ├── Business_Recommendations.md   # Executive summary
 │   └── figures/                      # All visualizations
-├── src/
-│   ├── data_cleaning.py              # Data preprocessing
-│   ├── feature_engineering.py        # Feature creation
-│   └── visualization.py              # Plotting functions
+├── src/   
+│   └── data_cleaning.py              # Data preprocessing
 └── docs/
     ├── methodology.md                # Technical documentation
     └── data_dictionary.md            # Feature descriptions
@@ -149,18 +147,6 @@ hotel-booking-cancellation-analysis/
    - Navigate to `notebooks/01_exploratory_data_analysis.ipynb`
    - Run all cells (Cell → Run All)
 
-### Quick Start
-
-**View the interactive dashboard locally:**
-```bash
-# Option 1: Open HTML directly
-open dashboards/interactive_dashboard.html
-
-# Option 2: Serve locally
-cd dashboards
-python -m http.server 8000
-# Visit: http://localhost:8000/interactive_dashboard.html
-```
 
 ---
 
