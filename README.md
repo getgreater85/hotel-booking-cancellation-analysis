@@ -8,7 +8,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive-red.svg)](https://plotly.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**[📊 View Live Dashboard](https://YOUR_USERNAME.github.io/hotel-booking-cancellation-analysis/)** | **[📓 Full Analysis Notebook](notebooks/01_exploratory_data_analysis.ipynb)** | **[📈 Business Recommendations](reports/Business_Recommendations.md)**
+**[📊 View Live Dashboard](https://getgreater85.github.io/hotel-booking-cancellation-analysis/dashboards/interactive_dashboard.jsx)** | **[📓 Full Analysis Notebook](notebooks/01_exploratory_data_analysis.ipynb)** | **[📈 Business Recommendations](reports/Business_Recommendations.md)**
 
 ---
 
