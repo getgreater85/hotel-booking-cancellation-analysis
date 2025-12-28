@@ -243,7 +243,7 @@ Created 8 new features:
 - Dynamic overbooking algorithm
 - Advanced customer segmentation
 
-📄 **[View Full Recommendations Report](reports/Business_Recommendations.md)**
+📄 **[View Full Recommendations Report](https://github.com/getgreater85/hotel-booking-cancellation-analysis/blob/main/reports/figures/Business_Recommendations.md)**
 
 ---
 
@@ -284,8 +284,6 @@ Created 8 new features:
 | `avg_price_per_room` | Room price | Float |
 | `no_of_special_requests` | Number of special requests | Integer |
 | `booking_status` | Canceled (1) or Not (0) | Binary (Target) |
-
-**Engineered Features**: See [Full Data Dictionary](docs/data_dictionary.md)
 
 ---
 
@@ -360,34 +358,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Portfolio: [Your Portfolio Website](https://yourwebsite.com)
-- Email: your.email@example.com
+- GitHub: [@getgreater85](https://github.com/getgreater85)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rodion-b-258b28248/)
+- Portfolio: [Your Portfolio Website](https://www.datacamp.com/portfolio/rodbars85)
+- Email: rodbars85@hotmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Kaggle Hotel Booking Dataset](https://www.kaggle.com/)
+- Dataset source: [DataCamp Hotel Booking Dataset](https://www.datacamp.com/)
 - Inspired by real-world hospitality industry challenges
 - Built as part of data science portfolio development
 
 ---
 
-## 📞 Contact
-
-Have questions or want to collaborate? Feel free to reach out!
-
-**[📧 Send Email](mailto:your.email@example.com)** | **[💼 LinkedIn](https://linkedin.com/in/YOUR_PROFILE)** | **[🐦 Twitter](https://twitter.com/YOUR_HANDLE)**
-
----
 
 <div align="center">
 
 ### ⭐ Star this repository if you found it helpful!
-
-**[📊 View Live Dashboard](https://YOUR_USERNAME.github.io/hotel-booking-cancellation-analysis/)** | **[📓 Explore Analysis](notebooks/01_exploratory_data_analysis.ipynb)**
 
 *Built with ❤️ using Python, Pandas, and Plotly*
 
