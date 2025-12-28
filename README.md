@@ -111,7 +111,6 @@ hotel-booking-cancellation-analysis/
 ├── src/   
 │   └── data_cleaning.py              # Data preprocessing
 └── docs/
-    ├── methodology.md                # Technical documentation
     └── data_dictionary.md            # Feature descriptions
 ```
 
