@@ -367,7 +367,7 @@ The key is starting with low-friction, high-impact changes (special requests, de
 
 ---
 
-**Prepared by**: Data Analytics Team  
+**Prepared by**: Rodion Barskov, Data Analytics Team  
 **Date**: December 28, 2025  
 **Based on**: Analysis of 36,274 booking records  
 **Statistical Confidence**: All findings validated at p < 0.001 significance level
