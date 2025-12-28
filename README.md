@@ -45,7 +45,7 @@ Implementing the prioritized recommendations could:
 - 💰 **Revenue Impact Calculator**: Quantified business value
 - 🎯 **Priority Recommendations**: Actionable insights with ROI estimates
 
-**[🚀 Launch Interactive Dashboard](https://YOUR_USERNAME.github.io/hotel-booking-cancellation-analysis/)**
+**[🚀 Launch Interactive Dashboard](https://getgreater85.github.io/hotel-booking-cancellation-analysis/dashboards/interactive_dashboard.html)**
 
 ---
 
