@@ -45,7 +45,7 @@ Implementing the prioritized recommendations could:
 - 💰 **Revenue Impact Calculator**: Quantified business value
 - 🎯 **Priority Recommendations**: Actionable insights with ROI estimates
 
-**[🚀 Launch Interactive Dashboard](https://getgreater85.github.io/hotel-booking-cancellation-analysis/dashboards/interactive_dashboard.html)**
+**[🚀 Launch Interactive Dashboard](https://4vkyj5.csb.app/)**
 
 ---
 
@@ -359,8 +359,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 
 - GitHub: [@getgreater85](https://github.com/getgreater85)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rodion-b-258b28248/)
-- Portfolio: [Your Portfolio Website](https://www.datacamp.com/portfolio/rodbars85)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rodion-b-258b28248/)
+- Portfolio: [Portfolio Website](https://www.datacamp.com/portfolio/rodbars85)
 - Email: rodbars85@hotmail.com
 
 ---
